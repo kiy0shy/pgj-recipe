@@ -1,0 +1,50 @@
+h1 {
+  color: maroon;
+}
+
+h2 {
+  color: rgb(16, 16, 156);
+  text-decoration: underline;
+}
+
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  font-size: larger;
+}
+
+body {
+  background-color: thistle;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 15px;
+}
+
+html {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  text-shadow: 0 0 5px black;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+a {
+  color: brown;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
